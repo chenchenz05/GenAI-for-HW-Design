@@ -1,0 +1,5 @@
+{
+  "name": "Android Desktop Performance Predictor",
+  "description": "An AI-powered system to predict Android desktop performance metrics based on hardware configurations.",
+  "requestFramePermissions": []
+}
